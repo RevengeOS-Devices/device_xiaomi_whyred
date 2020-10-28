@@ -165,6 +165,9 @@ persist.vendor.data.mode=concurrent
 ro.telephony.iwlan_operation_mode=legacy
 ro.vendor.use_data_netmgrd=true
 
+# Optimize
+sys.vendor.shutdown.waittime=500
+
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
 
