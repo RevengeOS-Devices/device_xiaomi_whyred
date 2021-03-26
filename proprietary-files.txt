@@ -1064,12 +1064,12 @@ vendor/lib64/vendor.qti.hardware.perf@2.0.so|146c627637fcc29c0138167baf604fffc06
 vendor/lib64/vendor.qti.hardware.perf@2.1.so|af8c420c02ec43cad3d66f10c1a021ae9fcd1adb
 vendor/lib64/vendor.qti.hardware.perf@2.2.so|2dd6d42457089d3f3076b44d1bad5965857f68f4
 
-# Perf configs - from LA.UM.8.2.1.r1-05600-sdm660
-vendor/etc/perf/commonresourceconfigs.xml|b014d70d329a385091aacb6539b2fee1bd9b285d
-vendor/etc/perf/perfboostsconfig.xml|402a87eaefe640d72a74abfcddcf924d19810704
-vendor/etc/perf/perfconfigstore.xml|d2f3548925343eb5f5263ec8544e8931938d39ce
-vendor/etc/perf/targetconfig.xml|dbc6dc566f70b687fa3a740441aef7f0252b1128
-vendor/etc/perf/targetresourceconfigs.xml|17a860cb3d0f8e8a610f78da1cc9baed85bfa8ca
+# Perf configs - from LA.UM.9.12.r1-10800-SMxx50.0
+vendor/etc/perf/commonresourceconfigs.xml|459a18579580713fd839f93c86d6b1f7f028be1e
+vendor/etc/perf/perfboostsconfig.xml|1b925efc5be95c1fbcec228a609ffa59b1f6ecc9
+vendor/etc/perf/perfconfigstore.xml|93c6416f3347a0b2cff778ba6d6a58873514bdc9
+vendor/etc/perf/targetconfig.xml|376ae331df9d6c30b6208f25d04ae4ea11c0e2ea
+vendor/etc/perf/targetresourceconfigs.xml|50eb2e60eb50a1d27b476c7aeb98ecb612df7eee
 
 # Peripheral - from ginkgo 21.4.28
 vendor/bin/pm-proxy|8e159d1fb25f5ee24cf94be8534b3bb8891831bc
