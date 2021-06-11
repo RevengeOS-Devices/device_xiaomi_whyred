@@ -37,20 +37,20 @@
   },
   {
     "remote": "github",
-    "repository": "silont-project/aarch64-elf-gcc",
+    "repository": "pjorektneira/arm64-gcc",
     "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf",
-    "branch": "arm64/10"
+    "branch": "master"
   },
   {
     "remote": "github",
-    "repository": "silont-project/arm-eabi-gcc",
+    "repository": "pjorektneira/arm32-gcc",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
-    "branch": "arm/10"
+    "branch": "master"
   },
   {
     "remote": "github",
-    "repository": "SakilMondal/vendor_MiuiCamera",
+    "repository": "pjorektneira/MiuiCamera",
     "target_path": "vendor/MiuiCamera",
-    "branch": "11.x"
+    "branch": "r11.0"
   }
 ]
