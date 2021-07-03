@@ -31,6 +31,7 @@ $(call inherit-product, vendor/MiuiCamera/config.mk)
 # RevengeOS Stuff
 REVENGEOS_BUILDTYPE := OFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_FACE_UNLOCK_SUPPORTED := true
 
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
