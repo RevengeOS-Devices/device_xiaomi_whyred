@@ -21,7 +21,7 @@
     "remote": "github",
     "repository": "pjorektneira/hardware_qcom_display",
     "target_path": "hardware/qcom-caf/msm8998-r/display",
-    "branch": "11-msm8998"
+    "branch": "wfd-test"
   },
   {
     "remote": "github",
