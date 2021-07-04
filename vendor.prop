@@ -134,7 +134,7 @@ dalvik.vm.image-dex2oat-cpu-set=4,5,6,7
 # Display
 debug.sf.hw=1
 ro.hardware.egl=adreno
-ro.hardware.vulkan=adreno
+ro.hardware.vulkan=sdm660
 ro.opengles.version=196610
 ro.vendor.display.cabl=0
 vendor.display.disable_skip_validate=1
