@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "devices",
+    "repository": "vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
+    "branch": "r11.0_4.19"
+  },
+  {
+    "remote": "devices",
+    "repository": "kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch": "r11.0_4.19"
+  },
+  {
+    "remote": "github",
+    "repository": "pjorektneira/hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/msm8998-r/display",
+    "branch": "sdm660-4.19"
+  },
+  {
+    "remote": "github",
+    "repository": "pjorektneira/hardware_qcom_media",
+    "target_path": "hardware/qcom-caf/msm8998-r/media",
+    "branch": "sdm660-4.19"
+  },
+  {
+    "remote": "github",
+    "repository": "pjorektneira/hardware_qcom_audio",
+    "target_path": "hardware/qcom-caf/msm8998-r/audio",
+    "branch": "sdm660-4.19"
+  }
+]
