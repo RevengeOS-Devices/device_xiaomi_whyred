@@ -989,6 +989,9 @@ vendor/firmware/a530_pfp.fw
 vendor/firmware/a530_pm4.fw
 vendor/firmware/a540_gpmu.fw2
 
+# IRQ Balance - from citrus V12.0.1.0.QJFMIXM
+vendor/bin/msm_irqbalance|dd8e65dae1f2f8ec1beb72f7115621f301eab85d
+
 # Keymaster - from LA.UM.8.2.1.r1-05600-sdm660
 vendor/lib/libkeymasterdeviceutils.so|df3946ad31bfd7b0837376d6740b8b0f3ede588d
 vendor/lib/libkeymasterprovision.so|0e5541957d5a259035498fce37550d8565e35697
@@ -1044,10 +1047,9 @@ vendor/lib64/libmlipay@1.1.so|7d07b19faa36c62babf39a41b2baf8de370d706c
 vendor/lib64/vendor.xiaomi.hardware.mlipay@1.0.so|2c05d2902c757410aec30c6a5d0bf77b016583fa
 vendor/lib64/vendor.xiaomi.hardware.mlipay@1.1.so|0c4bb0c8ba1cbf357bb0b5117e93db0382ffcf49
 
-# Perf - from citrus V12.0.1.0.QJFMIXM
-vendor/bin/msm_irqbalance|dd8e65dae1f2f8ec1beb72f7115621f301eab85d
-vendor/lib/libqti-perfd-client.so|b291dd0eabf0318c39939693e370af6aceff8576
-vendor/lib64/libqti-perfd-client.so|43ffe48ce70220f94a6b5829c7ecf08e3e94e305
+# Perf - from Taimen RP1A.201005.004
+vendor/lib/libqti-perfd-client.so|08b0cd20dbc79645ee73ea4fdc5221d41d09588a
+vendor/lib64/libqti-perfd-client.so|cd3def30b6d444430ea8cea8956623d9d165eb7a
 
 # Perf configs - from LA.UM.8.2.1.r1-05600-sdm660
 vendor/etc/perf/commonresourceconfigs.xml|b014d70d329a385091aacb6539b2fee1bd9b285d
