@@ -353,6 +353,9 @@ PRODUCT_PACKAGES += \
     libregistermsext \
     mediametrics
 
+# MiuiCam
+$(call inherit-product, vendor/MiuiCamera/config.mk)
+
 # Net
 PRODUCT_PACKAGES += \
     netutils-wrapper-1.0
