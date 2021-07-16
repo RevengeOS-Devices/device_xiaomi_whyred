@@ -902,7 +902,7 @@ vendor/lib64/liblocationservice_glue.so|8927d0005b570e7b0fbd76bf9084c6abfb1bf451
 vendor/lib64/liblowi_client.so|6eae21e006b730e1fb5303d35518f4298bf47475
 vendor/lib64/liblowi_wifihal.so|776ef2f1ca775e418e4e60f984558c77fc420158
 vendor/lib64/libqcc_file_agent.so|ddfc0babc52ab12b6b159b36505bc0b5ef460a0a
-vendor/lib64/libmmosal.so|31c52e7ebc9de86bd15bc1165185bdfd79fb318e
+vendor/lib64/libmmosal.so|e9fdb48163e92b089cea0c397723a8416436c272
 vendor/lib64/libxtadapter.so|689ea3eb00dd64dfd9b81f9ef1d67150ccb3eafc
 vendor/lib64/vendor.qti.gnss@1.0.so|42a334848284231ed109bb2d192efba50aa0c4ea
 vendor/lib64/vendor.qti.gnss@1.1.so|6139f24a0d14a86d354f8f812bfbd92614e9b950
@@ -1367,5 +1367,5 @@ vendor/lib/libwfdhaldsmanager.so|f821e664604b683ac9b6afc545e7f004e45d160c
 vendor/lib/libwfdhdcpcp.so|74407e38fb6584688201285589f2e396bcb58a3f
 vendor/lib/libwfdmmservice.so|8dbc75863971df4eadf99114354cfc0a7987758c
 vendor/lib/libwfdmodulehdcpsession.so|bed1f85a71330dd04a9ce5aba4ed40b15fc0f3f2
-vendor/lib64/libmmosal.so|31c52e7ebc9de86bd15bc1165185bdfd79fb318e
+vendor/lib64/libmmosal.so|e9fdb48163e92b089cea0c397723a8416436c272
 vendor/lib64/libwfdhdcpcp.so|a9f56d29d9243272ca73d564977022d3aef3b8e4
