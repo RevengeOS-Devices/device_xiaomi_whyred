@@ -37,15 +37,15 @@
   },
   {
     "remote": "github",
-    "repository": "pjorektneira/arm64-gcc",
+    "repository": "silont-project/aarch64-elf-gcc",
     "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf",
-    "branch": "master"
+    "branch": "arm64/11"
   },
   {
     "remote": "github",
-    "repository": "pjorektneira/arm32-gcc",
+    "repository": "silont-project/arm-eabi-gcc",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
-    "branch": "master"
+    "branch": "arm/11"
   },
   {
     "remote": "github",
