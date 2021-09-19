@@ -3,37 +3,19 @@
     "remote": "devices",
     "repository": "device_xiaomi_whyred-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch": "r11.0"
+    "branch": "r11.0-rebase"
   },
   {
     "remote": "devices",
     "repository": "vendor_xiaomi_whyred",
     "target_path": "vendor/xiaomi",
-    "branch": "r11.0"
+    "branch": "r11.0-rebase"
   },
   {
     "remote": "devices",
     "repository": "kernel_xiaomi_whyred",
     "target_path": "kernel/xiaomi/sdm660",
     "branch": "r11.0"
-  },
-  {
-    "remote": "github",
-    "repository": "pjorektneira/hardware_qcom_display",
-    "target_path": "hardware/qcom-caf/msm8998-r/display",
-    "branch": "wfd-test"
-  },
-  {
-    "remote": "github",
-    "repository": "LineageOS/android_hardware_qcom_media",
-    "target_path": "hardware/qcom-caf/msm8998-r/media",
-    "branch": "lineage-18.1-caf-msm8998"
-  },
-  {
-    "remote": "github",
-    "repository": "LineageOS/android_hardware_qcom_audio",
-    "target_path": "hardware/qcom-caf/msm8998-r/audio",
-    "branch": "lineage-18.1-caf-msm8998"
   },
   {
     "remote": "github",
@@ -46,11 +28,5 @@
     "repository": "silont-project/arm-eabi-gcc",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
     "branch": "arm/11"
-  },
-  {
-    "remote": "github",
-    "repository": "pjorektneira/MiuiCamera",
-    "target_path": "vendor/MiuiCamera",
-    "branch": "r11.0"
   }
 ]
